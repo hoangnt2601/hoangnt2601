@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+#### My Bio  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
@@ -21,35 +21,21 @@ Hi, I'm Hoang Nguyen Tien, a AI Fresher from Vietnam, currently, I'm working on 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-**Talking about Personal Stuffs:**
+##### **Personal Stuffs:**
 
 - 🌱 I’m currently do with projects related to image processing.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: hoangnt2601@gmail.com
 - 📝[Resume](google.com)
 
-**Languages and Tools:**  
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+##### Blog & Writing:
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
+Apart from coding, I also maintain a blog - you can find my articles on my website at codertapsu.dev
 
-```text
-Python       11 hrs 43 mins  ████████████████░░░░░░░░░   63.72 % 
-C++          4 hrs 42 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.60 % 
-Markdown     44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
-Git Config   36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
-TeX          27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+📊 **My Skills:**
+
 ```
-<!--END_SECTION:waka-->
-
-<details>
-<summary>📈 My GitHub Stats</summary>
-
-
-
-</details>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+```
 
 
