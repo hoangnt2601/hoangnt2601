@@ -24,9 +24,9 @@ Hi, I'm Hoang Nguyen Tien, a AI Fresher from Vietnam, currently, I'm working on 
 
 ##### Blog & Writing:
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [codertapsu.dev](a.com)
+Apart from coding, I also maintain a blog - you can find my articles on my website at [codertapsu.dev](https://hoangnt2601.github.io/)
 
 📊 **My Skills:**
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Framework-Tensorflow-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Framework-Pytorch-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ffff1a)![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Framework-Tensorflow-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ff8533)![](https://img.shields.io/badge/Framework-Pytorch-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=66a3ff)
 
