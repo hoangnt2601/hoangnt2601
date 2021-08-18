@@ -11,7 +11,7 @@
   <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 
-Hi, I'm Hoang Nguyen Tien, a AI Fresher from Vietnam, currently, I'm working on [iview.vn](https://iview.vn/). Beside's programming, I enjoy reading and traveling.
+Hi, I'm Hoang Nguyen Tien, a AI Fresher from Vietnam, currently, I'm working on [cxview.vn](https://cxview.vn/). Beside's programming, I enjoy reading and traveling.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
@@ -19,7 +19,7 @@ Hi, I'm Hoang Nguyen Tien, a AI Fresher from Vietnam, currently, I'm working on 
 
 - 🌱 I’m currently do with projects related to image processing.
 - 💬 Ask me about anything, I am happy to help.
-- 📫 How to reach me: hoangnt2601@gmail.com
+- 📫 How to reach me: hoang.nguyentien@cxview.ai
 - 📝[Resume](https://www.topcv.vn/xem-cv/3366e6554d7fec6ac2f8baa79ec7402e)
 
 ##### Blog & Writing:
